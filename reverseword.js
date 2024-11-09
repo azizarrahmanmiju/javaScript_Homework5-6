@@ -8,4 +8,4 @@ const reverseWord = sentence => {
     console.log(reveresed);
 }
 
-reverseWord("I love You"); // Output: "I evol uoy"
+reverseWord("I love You"); // Output: I evol uoy
