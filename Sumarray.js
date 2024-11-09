@@ -1,6 +1,4 @@
 
-
-
 const sumArray = array => {
 
     let sum = 0;
